@@ -1,7 +1,7 @@
 /**
- * @author NTKhang
- * ! The source code is written by NTKhang, please don't change the author's name everywhere. Thank you for using
- * ! Official source code: https://github.com/ntkhang03/Goat-Bot-V2
+ * @author Team-Ban
+ * ! The source code is written by Team-Ban, please don't change the author's name everywhere. Thank you for using
+ * ! Official source code: https://github.com/Team-Ban/Goat-Bot-V2
  * ! If you do not download the source code from the above address, you are using an unknown version and at risk of having your account hacked
  *
  * English:
@@ -251,7 +251,7 @@ if (config.autoRestart) {
 	global.utils.transporter = transporter;
 
 	try {
-		const { data: { version } } = await axios.get("https://raw.githubusercontent.com/ntkhang03/Goat-Bot-V2/main/package.json");
+		const { data: { version } } = await axios.get("https://raw.githubusercontent.com/Team-Ban/Goat-Bot-V2/main/package.json");
 		const currentVersion = require("./package.json").version;
 		if (compareVersion(version, currentVersion) === 1) {
 			utils.log.master("NEW VERSION", getText(
