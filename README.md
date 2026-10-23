@@ -2,9 +2,9 @@
 
 **Goat Bot-V2** is a powerful Facebook Messenger chatbot that runs using your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles 250+ useful commands with an easily customizable structure for developers.
 
-[![GitHub stars](https://img.shields.io/github/stars/AminulSardar1/Goat-Bot-V2)](https://github.com/AminulSardar1/Goat-Bot-V2/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AminulSardar1/Goat-Bot-V2)](https://github.com/AminulSardar1/Goat-Bot-V2/network)
-[![GitHub issues](https://img.shields.io/github/issues/AminulSardar1/Goat-Bot-V2)](https://github.com/AminulSardar1/Goat-Bot-V2/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Team-Ban/Goat-Bot-V2)](https://github.com/Team-Ban/Goat-Bot-V2/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Team-Ban/Goat-Bot-V2)](https://github.com/Team-Ban/Goat-Bot-V2/network)
+[![GitHub issues](https://img.shields.io/github/issues/Team-Ban/Goat-Bot-V2)](https://github.com/Team-Ban/Goat-Bot-V2/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## 🌟 Features
